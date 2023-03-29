@@ -1,0 +1,1 @@
+print('trainning data')
